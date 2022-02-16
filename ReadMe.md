@@ -2,11 +2,9 @@
 
 # Progression
 
-[ ]
-
-[ ]
-
-[ ]
+- [ ] project aim
+- [ ] pretty pictures
+- [ ] project division of labor
 
 # Source
 
