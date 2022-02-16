@@ -1,5 +1,7 @@
 # Project Goal
 
+![This is an image](Audio_flow.JPG)
+
 # Progression
 
 - [ ] project aim
