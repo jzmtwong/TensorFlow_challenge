@@ -2,9 +2,12 @@
 
 ![This is an image](Audio_flow.JPG)
 
+
+Identify and Classify various audio snippets.  Build functionality to recognize future audio snippets.
+
 # Progression
 
-- [ ] project aim
+- [x] project aim
 - [ ] pretty pictures
 - [ ] project division of labor
 
